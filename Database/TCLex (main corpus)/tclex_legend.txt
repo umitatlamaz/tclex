@@ -1,0 +1,63 @@
+COLUMN LEGEND
+=============
+
+lemma
+    Lemma/base form of the word.
+
+pos
+    Part of speech.
+
+corpus_frequency
+    Total frequency of the lemma in the corpus.
+
+spoken_frequency
+    Frequency of the lemma in the spoken component.
+
+written_frequency
+    Frequency of the lemma in the written component.
+
+literature
+    Frequency of the lemma in the literature component.
+
+meb
+    Frequency of the lemma in the MEB (Turkish Ministry of National Education
+    Textbooks) component.
+
+saha
+    Frequency of the lemma in the SAHA (interviews with primary school
+    children) component.
+
+tubitak
+    Frequency of the lemma in the TÜBİTAK (Bilim Çocuk Journal by TÜBİTAK)
+    component.
+
+video
+    Frequency of the lemma in the video component.
+
+class
+    Conceptual class assigned to the lemma.
+
+subclass
+    Conceptual subclass (more granular) assigned to the lemma.
+
+num_docs
+    Number of documents in which the lemma occurs.
+
+mps
+    Morphological Paradigm Size (i.e., the number of distinct wordforms
+    associated with the lemma).
+
+cd
+    Contextual Diversity measure.
+
+pmw
+    Frequency per million words.
+
+zipf
+    Zipf frequency score.
+
+length
+    Length of the lemma in characters.
+
+sc
+    Syllable count, operationalized as the number of vowels in the lemma.
